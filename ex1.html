@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link rel="stylesheet" href="fontello/css/fontello.css">
+    <style>
+
+
+
+.form-fields-group{
+    position: relative;
+}
+.form-fields-group-label {
+    position: absolute; top: 0; left: 0;
+    font-size: 13px;
+    color: #27252a;
+    margin-top: 34px;
+    font-family: 'Roboto', sans-serif;
+    margin-left: 16px;
+    padding-top: 5px;
+}
+
+.form-fields-input {
+    margin-top: 34px;
+    padding: 30px 142px 8px 16px;
+    border: none;
+    background: #EAEAEE;
+    border-radius: 5px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+}
+.form-fields-input:focus + .form-fields-group-label{
+    color: #00f;
+}
+
+      
+    </style>
+</head>
+<body>
+      
+        <div class="form-fields-group">
+
+                <input type="text" id="name" class="form-fields-input" placeholder="Username" required>
+                <label class="form-fields-group-label icon-lock-filled" for="name">  </label>
+        </div>
+            
+</body>
+</html>

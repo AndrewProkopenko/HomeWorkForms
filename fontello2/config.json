@@ -1,0 +1,52 @@
+{
+  "name": "",
+  "css_prefix_text": "icon-",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "4c1ef492f1d2c39a2250ae457cee2a6e",
+      "css": "instagram",
+      "code": 61805,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "b523a5bcf8d08725038873d89bb003fd",
+      "css": "twitter-circled",
+      "code": 59392,
+      "src": "typicons"
+    },
+    {
+      "uid": "7132e1233bc16cd1b6efe7e29d3613a5",
+      "css": "linkedin",
+      "code": 62232,
+      "src": "entypo"
+    },
+    {
+      "uid": "1ea8ad6dbe1ae9a73565ad16cf88de19",
+      "css": "location",
+      "code": 59393,
+      "src": "linecons"
+    },
+    {
+      "uid": "91bac16b22827347e9ee20477f0b44d2",
+      "css": "mail",
+      "code": 59394,
+      "src": "linecons"
+    },
+    {
+      "uid": "2cfac2c1a9eb4552af0eba34def4b010",
+      "css": "skype-outline",
+      "code": 59395,
+      "src": "typicons"
+    },
+    {
+      "uid": "9f7e588c66cfd6891f6f507cf6f6596b",
+      "css": "phone",
+      "code": 59396,
+      "src": "fontawesome"
+    }
+  ]
+}
