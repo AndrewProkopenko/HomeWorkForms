@@ -366,9 +366,13 @@ textarea[class="name-form"] {
     background: #e04b15;
     text-transform: uppercase;
     box-shadow: #e04b15 0 5px 12px;
+    cursor: pointer;
     
 }
+.button-form2:focus { 
+    box-shadow: #521c08 0 5px 12px;
 
+}
 
 
 
