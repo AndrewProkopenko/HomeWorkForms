@@ -280,6 +280,10 @@ ul li a {
     color: #fafafa;
     font-weight: 300;
     font-size: 1.2rem;
+    transition: 300ms ease;
+}
+.content-left a:hover, .social-icons i:hover { 
+    color: rgb(197, 154, 138)
 }
 li i { 
     padding-right: 5px;
