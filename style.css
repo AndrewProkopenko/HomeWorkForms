@@ -401,6 +401,7 @@ textarea[class="name-form"] {
     color:  #8f8f8f;
     font-size: 1rem;
     font-family: 'Montserrat', sans-serif;
+    padding-left: 0;
     
 }
 
@@ -410,6 +411,7 @@ textarea[class="name-form"] {
     color:  #8f8f8f;
     font-size: 1rem;
     font-family: 'Montserrat', sans-serif;
+    padding-left: 0;
 }
 
 .name-form:-ms-input-placeholder {
@@ -417,6 +419,7 @@ textarea[class="name-form"] {
     color:  #8f8f8f;
     font-size: 1rem;
     font-family: 'Montserrat', sans-serif;
+    padding-left: 0;
 }
 
 .name-form:-moz-placeholder {
@@ -425,4 +428,5 @@ textarea[class="name-form"] {
     color:  #8f8f8f;
     font-size: 1rem;
     font-family: 'Montserrat', sans-serif;
+    padding-left: 0;
 }
