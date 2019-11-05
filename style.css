@@ -96,6 +96,7 @@ html, body {
     font-size: 1.5rem;
     font-family: 'Montserrat', sans-serif;
     margin-right: 50px;
+    padding-left: 15px;
     
 }
 .form-input-name-label, .form-input-password-label{ 
@@ -104,7 +105,7 @@ html, body {
     flex-grow: 1;
     text-align: center;
     color: #a0a0a0;
-    font-size: 1.5rem;
+    font-size: 2rem;
     transition: 300ms ease;
     
 
@@ -182,6 +183,7 @@ html, body {
     color: #a0a0a0;
     font-size: 1.5rem;
     font-family: 'Montserrat', sans-serif;
+    padding-left: 15px;
     
 }
 
@@ -191,6 +193,7 @@ html, body {
     color: #a0a0a0;
     font-size: 1.5rem;
     font-family: 'Montserrat', sans-serif;
+    padding-left: 15px;
 }
 
 :-ms-input-placeholder {
@@ -198,6 +201,7 @@ html, body {
     color: #a0a0a0;
     font-size: 1.5rem;
     font-family: 'Montserrat', sans-serif;
+    padding-left: 15px;
 }
 
 :-moz-placeholder {
@@ -206,6 +210,7 @@ html, body {
     color: #a0a0a0;
     font-size: 1.5rem;
     font-family: 'Montserrat', sans-serif;
+    padding-left: 15px;
 }
 
 
